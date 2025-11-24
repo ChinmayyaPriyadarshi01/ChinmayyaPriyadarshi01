@@ -1,4 +1,14 @@
+💫 Hi 👋, I'm Chinmayya Priyadarshi
+A passionate B.Tech || Aspiring DevOps Engineer ||  from India
 
+Email Me 👉 (chinmayyapmohapatra@gmail.com) For Academic Collaborations or Tech Discussions
+
+🔭 I’m currently pursuing: My B.Tech Degree in CSIT at Siksha 'O' Anusandhan
+🌱 I’m focused on learning: Cloud Computing
+📫 How to reach me: chinmayyapmohapatra@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I Love Tech and Tech Love Me
+ A Brief, Non technical hobby : I love watching and playing sports.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chinmayya-priyadarshi-63b4b9349) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/31923583/chinmayya-priyadarshi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chinmayyapmohapatra@gmail.com) 
 
